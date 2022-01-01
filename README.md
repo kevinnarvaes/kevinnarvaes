@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+
+I'm a data enthusiast learning a bit everyday about the world.
+My main working tool is Power BI, and I plan to feature some of my projects here.
+Currently learning python, so expect some fancy webpage projects as well!
 
 <!--
 **kevinnarvaes/kevinnarvaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
