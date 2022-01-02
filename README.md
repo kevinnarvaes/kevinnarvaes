@@ -1,8 +1,13 @@
+![Banner](https://drive.google.com/uc?id=1kPg-oI2uulvTlACyBxWMY-T0oxJFFkgn)
+
 ### Hello World! 👋
 
 I'm a data enthusiast learning a bit everyday about the world.
-My main working tool is Power BI, and I plan to feature some of my projects here.
-Currently learning python, so expect some fancy webpage projects as well!
+My main working tool is **Power BI** 📊, and I plan to feature some of my projects here.
+Currently learning **Python** 🐍, so expect some fancy webpage projects as well!
+
+- Follow me on [LinkedIn](https://www.linkedin.com/in/kevinnarvaes2/)!!
+- Check out my [Latest Project](https://github.com/kevinnarvaes/Pokemon-Data-Analysis.git)😎
 
 <!--
 **kevinnarvaes/kevinnarvaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
