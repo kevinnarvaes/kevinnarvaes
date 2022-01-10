@@ -25,7 +25,8 @@ Currently learning **Python** 🐍, so expect some fancy webpage projects as wel
     </td>
     <td>
       <ul>
-        <li> Follow me on <a href="https://www.linkedin.com/in/kevinnarvaes2/"> LinkedIn</a>!! </li>
+        <li> Follow me on <a href="https://www.linkedin.com/in/kevinnarvaesbi/"> LinkedIn</a>!! </li>
+        <li> Also <a href="https://twitter.com/kevinnarvaesbi"> Twitter</a></li>
         <li>Check out my <a href="https://github.com/kevinnarvaes/Pokemon-Data-Analysis.git/"> Latest Project</a>😎</li>
       </ul>
     </td>
